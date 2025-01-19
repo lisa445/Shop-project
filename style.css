@@ -2,7 +2,62 @@ body {
     background-color: #f2f2f2;
 }
 
+header{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+section{
+    text-align: center;
+}
 p{
+    text-align: center;
     font-family:'Times New Roman', Times, serif;
     font-size: 28px;
+}
+
+.ButtonFind{
+    width: 175px;
+    height:  60px;
+    background-color: #24bfc4;
+    border-style: solid;
+    border-color: #24bfc4;
+    border-radius: 40px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    box-shadow: 10px 10px 27px rgba(0, 0, 0, 0.19);
+    
+}
+
+.finder{
+    width: 500px;
+    height:  55px;
+    border-color:#797979;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.loading{
+    width: 175px;
+    height:  60px;
+    border-style: solid;
+    border-radius: 40px;
+    background-color: #797979;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+}
+
+button{
+    border-style: solid;
+    background-color: transparent;
+    border-width:0px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
 }
