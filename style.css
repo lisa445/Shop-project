@@ -28,6 +28,7 @@ p{
     border-radius: 40px;
     font-family:'Times New Roman', Times, serif;
     font-size: 20px;
+    cursor: pointer;
     box-shadow: 10px 10px 27px rgba(0, 0, 0, 0.19);
     
 }
@@ -51,7 +52,7 @@ p{
     background-color: #797979;
     font-family:'Times New Roman', Times, serif;
     font-size: 20px;
-    
+    cursor: pointer;
 }
 
 button{
@@ -60,4 +61,5 @@ button{
     border-width:0px;
     font-family:'Times New Roman', Times, serif;
     font-size: 20px;
+    cursor: pointer;
 }
